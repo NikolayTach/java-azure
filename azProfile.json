@@ -1,0 +1,1 @@
+{"installationId": "596b2702-d49e-11ef-8569-201e880a26d4", "subscriptions": [{"id": "9ccbaf3e-e430-4b1f-a27a-79ccfb5923a5", "name": "N/A(tenant level account)", "state": "Enabled", "user": {"name": "nikolai.Massine@gmail.com", "type": "user"}, "isDefault": true, "tenantId": "9ccbaf3e-e430-4b1f-a27a-79ccfb5923a5", "environmentName": "AzureCloud"}]}
